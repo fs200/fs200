@@ -6,7 +6,7 @@ export default defineNuxtConfig({
         'nuxt-windicss',
     ],
     publicRuntimeConfig: {
-        WEBSITE_NAME: 'Pigpigeon\'s blog'
+        WEBSITE_NAME: 'Amogus'
     },
     privateRuntimeConfig: {
         CLIENT_ID: process.env.CLIENT_ID,
